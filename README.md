@@ -11,7 +11,8 @@ Android: <a href="https://drive.google.com/file/d/1mdjo_wBOuO2CFhD_ct2BIgOAhj7zL
 
 <br/>
 <br/>
-# Tech Stack.
+TechStack 
+<br/>
 - I have used React Native with TypeScript.<br/>
 - Redux Toolkit for statement management and API call I have used Axios with Redux Toolkit and slices.<br/>
 - API to get the places from API (https://developers.google.com/maps/documentation/places/web-service/autocomplete)<br/>
